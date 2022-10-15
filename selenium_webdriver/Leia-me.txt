@@ -1,0 +1,13 @@
+Descompactar o arquivo "chromedriver_win32.zip"
+E copiar o seu conteúdo para dentro da pasta raiz do Python
+
+1ª) Clicar com botão direito em "Este Computador / Meu Computador"
+2ª) Clicar em Configurações avançadas do sistema
+3ª) Clicar em "Variáveis de Ambiente"
+4ª) Selecionar "Path" e clicar em Editar
+5ª) Clicar em Novo
+6ª) Adicionar o caminho onde colocou o "chromedriver.exe"
+
+Ou acesse o site para baixá-lo.
+https://chromedriver.chromium.org/downloads
+https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path
