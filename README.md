@@ -62,11 +62,7 @@ i) Adicionar o caminho onde colocou o **chromedriver.exe** <br>
 - [x] Adaptar para que seja possível executar para mais de um usuário
 - [x] Enviar log via E-mail
 
-## Backlog
-
-- [ ] Validar se dentro do servidor FTP existe o arquivo
-
-# Gerar executável
+## Gerar executável
 
 Primeiro será necessário instalar a biblioteca PyInstaller que será responsável por gerar esse arquivo .exe: <br>
 ```
