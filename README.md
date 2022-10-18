@@ -20,7 +20,7 @@ a) Acessar o endereço https://chromedriver.chromium.org/downloads e baixar o ar
 ![image](https://user-images.githubusercontent.com/22162514/193193586-c40478bf-1bea-4577-bc68-9e468c0fe11f.png)
 
 b) Descompactar o arquivo **chromedriver_win32.zip** <br>
-c) Copiar o seu conteúdo para dentro da pasta raiz do Python
+c) Copiar o seu conteúdo para dentro da pasta raiz do Python ```C:\WebScraping-Selenium-Python\selenium_webdriver\```
 
 > Outro passo importante é criar um path em variáveis de ambiente, também é simples, só seguir os próximos passos.
 
