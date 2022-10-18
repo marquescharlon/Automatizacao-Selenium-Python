@@ -11,7 +11,7 @@ import security as pw # Interessante toda senha que necessitar utilizar adiciona
 
 folder_70 = fr''
 folder_siparq = fr''
-link = 'https://google.com.br/'
+link = ''
 page_files = '' 
 executable_path = r'C:\WebScraping-Selenium-Python\selenium_webdriver\chromedriver.exe'
     
