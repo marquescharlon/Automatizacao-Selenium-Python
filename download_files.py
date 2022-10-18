@@ -60,7 +60,6 @@ def download(concessionaria:str=''):
             if x == "Não":
                 return 0
 
-    # log temporário, até que desenvolva com as informações do ZipFile
     file_df = {'file_name': []}
     file_df = pd.DataFrame(file_df)
 
@@ -75,7 +74,6 @@ def download(concessionaria:str=''):
         if get_FezDownload(line) == 0:
             file.click()
             qtd_site += 1
-            sleep(5)
         
     cf.create_folder("Documentos", "EDP/Temp")
     cf.create_folder("Documentos", "EDP/Temp/Duplicados")
@@ -103,7 +101,6 @@ def download(concessionaria:str=''):
     if files_folder_ >=  qtd_site:
         if await_file_ >= 1:
             sleep(15)
-        sleep(2)
         mf.move_files(
             p.downloads_folder, 
             p.identify_file(concessionaria, 'begin'), 
@@ -111,7 +108,6 @@ def download(concessionaria:str=''):
             p.temp_folder, 
             qtd_site
         )
-        sleep(2)
         mf.move_files_duplicates(
             p.downloads_folder,
             p.identify_file(concessionaria, 'begin', duplicate=True), 
