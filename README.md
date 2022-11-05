@@ -5,7 +5,7 @@ Após alguns dias pesquisando e avaliando as alternativas de como automatizar es
 
 ### Assista o vídeo que você terá uma visão melhor deste projeto:
 
-[![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_automatizacao_python.png)](https://www.youtube.com/watch?v=fsYzNT58RUw)
+[![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_automatizacao_python.png)](https://youtu.be/B6na-M0_LH4)
 
 ## Parâmetros
 Vou destacar aqui os parâmetros principais, os que conversam diretamente com o Selenium. Para isso, acesse o arquivo ```parameters.py```<br>
