@@ -3,6 +3,10 @@
 O que fazer quando a empresa não disponibilizar uma API para você poder consumir? <br><br>
 Após alguns dias pesquisando e avaliando as alternativas de como automatizar esse processo, me deparei com Selenium, uma biblioteca poderosa. Com ela é possível realizar autenticação, ações como: navegar no site e baixar arquivos. E é o que essa automatização se propõe a fazer.
 
+### Assista o vídeo mostrando como funciona:
+
+[![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_automatizacao_python.png)](https://www.youtube.com/watch?v=fsYzNT58RUw)
+
 ## Parâmetros
 Vou destacar aqui os parâmetros principais, os que conversam diretamente com o Selenium. Para isso, acesse o arquivo ```parameters.py```<br>
 
