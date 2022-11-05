@@ -3,7 +3,7 @@
 O que fazer quando a empresa não disponibilizar uma API para você poder consumir? <br><br>
 Após alguns dias pesquisando e avaliando as alternativas de como automatizar esse processo, me deparei com Selenium, uma biblioteca poderosa. Com ela é possível realizar autenticação, ações como: navegar no site e baixar arquivos. E é o que essa automatização se propõe a fazer.
 
-### Assista o vídeo mostrando como funciona:
+### Assista o vídeo que você terá uma visão melhor deste projeto:
 
 [![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_automatizacao_python.png)](https://www.youtube.com/watch?v=fsYzNT58RUw)
 
@@ -87,4 +87,4 @@ pyinstaller --onefile --noconsole --paths=../ automatizacao_edp.py
 
 # Conclusão
 
-Essa automatização se fez necessária com a grande demanda de atividades diárias que foram surgindo, a ncessidade de diariamente ter que acessar um determinado site e baixar os arquivos de retorno que não poderiam deixar de serem lidos. Fazer esse processo manualmente acaba expondo a erros e consequentemente no disperdício de recursos. Além disso, conversa diretamente com o clientecentrismo, quando podemos diminuir as falhas e agilizar os processos de baixas de suas mensalidades evitando qualquer desconforto no bloqueio dos serviços.
+Essa automatização se fez necessária com a grande demanda de atividades diárias que foram surgindo, a necessidade de diariamente ter que acessar um determinado site e baixar os arquivos de retorno que não poderiam deixar de serem lidos. Fazer esse processo manualmente acaba expondo a erros e consequentemente no desperdício de recursos. Além disso, conversa diretamente com o clientecentrismo, quando podemos diminuir as falhas e agilizar os processos de baixas de suas mensalidades evitando qualquer desconforto no bloqueio dos serviços.
