@@ -5,7 +5,7 @@ Após alguns dias pesquisando e avaliando as alternativas de como automatizar es
 
 ### Assista o vídeo que você terá uma visão melhor deste projeto:
 
-[![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_automatizacao_python.png)](https://youtu.be/B6na-M0_LH4)
+[![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_automatizacao_python.png)](https://youtu.be/DkMk85ZxW-k)
 
 ## Parâmetros
 Vou destacar aqui os parâmetros principais, os que conversam diretamente com o Selenium. Para isso, acesse o arquivo ```parameters.py```<br>
@@ -56,7 +56,7 @@ i) Adicionar o caminho onde colocou o **chromedriver.exe** <br>
 - [x] Direcionar até o destino onde estão os arquivos a serem baixados
 - [x] Adicionar condição para baixar os arquivos corretos por meio do xPath
 - [x] Criar diretório temporário Temp e Duplicados para manipulação dos arquivos
-- [x] Validar se a quantidade baixada correponde a quantidade que foi feito download do site
+- [x] Validar se a quantidade baixada corresponde a quantidade que foi feito download do site
 - [x] Descompactar arquivos .ZIP
 - [x] Mover arquivos para a pasta de destino C:\Concessionária\Retorno\
 - [x] Registrar log dos arquivos a serem copiados para o servidor
