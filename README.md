@@ -1,11 +1,11 @@
-# Realizar login no site, baixar e manipular arquivos
+# Realizar login no site, baixar e descompactar arquivos
 
 O que fazer quando a empresa não disponibilizar uma API para você poder consumir? <br><br>
 Após alguns dias pesquisando e avaliando as alternativas de como automatizar esse processo, me deparei com Selenium, uma biblioteca poderosa. Com ela é possível realizar autenticação, ações como: navegar no site e baixar arquivos. E é o que essa automatização se propõe a fazer.
 
 ### Assista o vídeo que você terá uma visão melhor deste projeto:
 
-[![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_automatizacao_python.png)](https://youtu.be/DkMk85ZxW-k)
+[![AUTOMATIZAÇÃO PYTHON](https://github.com/marquescharlon/WebScraping-Selenium-Python/blob/main/img/capa_video_automatizacao_python.png)](https://youtu.be/DkMk85ZxW-k)
 
 ## Parâmetros
 Vou destacar aqui os parâmetros principais, os que conversam diretamente com o Selenium. Para isso, acesse o arquivo ```parameters.py```<br>
@@ -77,7 +77,7 @@ Agora, só acessar a raiz de seu projeto e executar o seguinte comando:
 pyinstaller --onefile --noconsole automatizacao_edp.py
 ```
 
-Se utiliza importar alguma biblioteca sua ou de terceiros será necessário utilizar **--paths=../** para gerar o executável.
+Se utiliza alguma biblioteca sua ou de terceiros será necessário usar o seguinte comando **--paths=../** para gerar o executável.
 
 ```
 pyinstaller --onefile --noconsole --paths=../ automatizacao_edp.py
