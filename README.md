@@ -19,9 +19,7 @@ Se o endereço da página onde os arquivos estiverem for fixo poderá definí-lo
 
 Para permitir realizar o acesso e a navegação pelo navegador através do Selenium se faz necessário baixar **chromedriver_win32.zip**, lembrando que você deverá baixar para o seu navegador em específico caso não seja o Google Chrome. Para mais informações acesse a documentação do [Selenium](https://www.selenium.dev/pt-br/documentation/webdriver/getting_started/install_drivers/)
 
-a) Acessar o endereço https://chromedriver.chromium.org/downloads e baixar o arquivo conforme a versão do seu browser. Para saber qual a versão baixar é simples, abra o Google Chrome e vá em ```Configurações > Sobre o Google Chrome``` e verá a mensagem:
-
-![image](https://user-images.githubusercontent.com/22162514/193193586-c40478bf-1bea-4577-bc68-9e468c0fe11f.png)
+a) Acessar o endereço https://chromedriver.chromium.org/downloads e baixar o arquivo conforme a versão do seu browser. Para saber qual a versão baixar é simples, abra o Google Chrome e vá em ```Configurações > Sobre o Google Chrome```.
 
 b) Descompactar o arquivo **chromedriver_win32.zip** <br>
 c) Copiar o seu conteúdo para dentro da pasta raiz do Python ```C:\WebScraping-Selenium-Python\selenium_webdriver\```
